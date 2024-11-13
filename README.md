@@ -1,5 +1,7 @@
 # Menetrend
 
+Készítő:
+
 Németh Tamás (Tompesz)
 
 Feladat:
