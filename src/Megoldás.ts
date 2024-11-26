@@ -52,7 +52,7 @@ export default class Megoldás {
 
     //5. feladat
     ellenőrizdMenetidőt(vonatAzonosító: number, óra: number, perc: number): string {
-        const menetidő = 2 * 60 + 22; // 2 óra 22 perc
+        const menetidő = 2 * 60 + 22;
         const vonat = this.#vonatok.filter(v => v.vonatAzonosító === vonatAzonosító);
 
         let összPerc = 0;
